@@ -29,3 +29,8 @@ In this chapter we will explore why to work in an upstream first fashion and how
 * Choosing contributions
 * Building an OSPO
    * Check TODO Group for more
+
+### Strategies for change
+
+* Start with an experiment (see innersourcecommons.org pattern)
+
