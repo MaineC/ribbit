@@ -5,6 +5,12 @@ Thoughts on Open Source and Open Development
 
 In this chapter we will explore why to work in an upstream first fashion and how to move an existing organisation to this model. We will explore typical issues and how to deal with them.
 
+This document is based on results gathered in a workshop that I first gave at FrOSCon. Slides here:
+
+https://drive.google.com/file/d/1a4fnanF_WFYRsF4_AR6xCZnqAx2gxzsq/view?usp=sharing
+
+Abstract and title: https://programm.froscon.de/2019/events/2339.html
+
 ### What is upstream first?
 
 ### Why would you want to work upstream first?
