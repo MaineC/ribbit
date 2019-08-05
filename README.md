@@ -22,21 +22,8 @@ Abstract and title: https://programm.froscon.de/2019/events/2339.html
 
 ### Common challenges - and solutions
 
-* Management buy-in
-* Developer buy-in
-* Lowering the barriers:
-   * Legal issues
-   * Tooling issues
-   * Process issues
-   * Cultural barriers
-      * Start with Inner Source
-      * See innersourcecommons.org
-* Choosing target communities
-* Choosing contributions
-* Building an OSPO
-   * Check TODO Group for more
-
-### Strategies for change
-
-* Start with an experiment (see innersourcecommons.org pattern)
+* [Management Buy-in](management_buy_in.md)
+* [Contributor Buy-in](contributor-buy-in.md)
+* [Selecting target projects](project-selection.md)
+* [Keeping motivation up](motivation.md)
 
