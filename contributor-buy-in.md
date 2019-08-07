@@ -46,3 +46,8 @@ result move faster in providing value to your customers."
 release"
 * "You'll get the chance to contribute to the greater good by being part of
   something that is bigger than yourself"
+* "You'll be in a good position to drive innovation"
+* "You'll be able to gain more experience and get valuable feedback"
+* "Instead of keeping documentation in your own blog post, why not contribute a
+  documentation patch and link to the accepted patch on your blog post adding
+validation to your publication."
